@@ -4,4 +4,4 @@ Calculatrice Java
 
 J'utilise des Double comme type pour mes variables pour prendre en compte les décimales.
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![Capture écran de la calculatrice](https://github.com/luckyfof/JavaEECalculatrice/blob/master/Calculatrice.PNG)
